@@ -1,0 +1,9 @@
+path: /mnt/d/Codes/ppe_yolov8/person_dataset #dataset absolute path
+
+train: images/train
+test: images/test
+val: images/val
+
+# classes
+names:
+  0: Person
